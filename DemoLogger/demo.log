@@ -1,0 +1,15 @@
+CRITICAL:root:THis is critical
+ERROR:root:THis is critical
+INFO:root:THis is critical
+WARNING:root:THis is critical
+DEBUG:root:THis is critical
+261121 10:33:22 AM: CRITICAL: THis is critical
+261121 10:33:22 AM: ERROR: THis is critical
+261121 10:33:22 AM: INFO: THis is critical
+261121 10:33:22 AM: WARNING: THis is critical
+261121 10:33:22 AM: DEBUG: THis is critical
+26/11/21 10:34:54 AM: CRITICAL: THis is critical
+26/11/21 10:34:54 AM: ERROR: THis is critical
+26/11/21 10:34:54 AM: INFO: THis is critical
+26/11/21 10:34:54 AM: WARNING: THis is critical
+26/11/21 10:34:54 AM: DEBUG: THis is critical
